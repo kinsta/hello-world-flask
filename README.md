@@ -24,3 +24,6 @@ When deploying an application Kinsta will automatically create a processes based
 ```
 web: gunicorn helloworld.wsgi
 ```
+
+## Watch How to Set Up a Flask Application on Kinsta
+[![Watch the video](https://img.youtube.com/vi/80skDMcZK28/maxresdefault.jpg)](https://www.youtube.com/watch?v=80skDMcZK28)
