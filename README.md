@@ -1,5 +1,3 @@
-![Photo by Daniele Levis Pelusi on Unsplash](https://user-images.githubusercontent.com/2342458/202704431-d5eda12f-a1eb-4f05-be84-de14872b57db.png)
-
 # Kinsta - Hello World - Flask
 
 An example of how to deploy a flask application on Kinsta App Hosting services.
